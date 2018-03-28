@@ -1,0 +1,8 @@
+.vs/
+EvalRpgTests/bin/
+EvalRpgTests/obj/
+EvalRpgLib/bin/
+EvalRpgLib/obj/
+packages
+
+*.dll
